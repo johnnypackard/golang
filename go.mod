@@ -1,3 +1,3 @@
-module github.com/user/hello
+module github.com/johnnypackard/golang
 
 go 1.13
